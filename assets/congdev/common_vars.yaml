@@ -1,0 +1,10 @@
+env_abbr:        "congdev"
+default_region: "europe-west1"
+default_zone: "europe-west1-b"
+proj_default_parent_folder: "632910919975" # Congdev
+lb-tf-bucket: "lb-congdev-tf-statefiles-1234"
+lb_tf_statefile_proj:  "lb-groundzero-12357" # Where statefile is stored
+lb_billing_account: "01F887-A81956-84DBAE"
+tf_sa_email: "tf-groundzero@lb-groundzero-12357.iam.gserviceaccount.com"
+
+goo_iap_ranges: [ "35.235.240.0/20" ]
